@@ -3,7 +3,7 @@ head {
 }
 
 body {
-	background-color: white;
+	background-color: #D3D3D3;
 	display: inline-block;
 	width: 960px;
 }
@@ -268,6 +268,7 @@ input[type=submit]:hover {
 	width: 270px;
 	padding-top: 30px;
 	border: thin solid #dddddd;
+	background-color: white;
 	text-align: center;
 }
 .links {
