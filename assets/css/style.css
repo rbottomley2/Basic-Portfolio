@@ -114,7 +114,7 @@ link to class portfoliopicures for main section, row 1/2/3 classes for picture r
 	border: thin solid #dddddd;
 	margin-left: 20px;
 	width: 650px;
-	overflow: auto;
+	
 }
 .row1 {
 	display: inline-block;
@@ -275,10 +275,13 @@ input[type=submit]:hover {
 	padding-right: 72px;
 	text-align: center;
 }
+
+
 .site-footer {
 	background-color: #666666;
 	color: white;
 	margin-top: 80px;
 	text-align: center;
+	width: 100%;
 }
 	
